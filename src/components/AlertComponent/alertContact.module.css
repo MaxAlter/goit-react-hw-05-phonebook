@@ -1,0 +1,11 @@
+.alert {
+  position: absolute;
+  padding: 10px 5px;
+  right: 15px;
+  text-align: center;
+  border-radius: 4px;
+  top: 15px;
+  width: 220px;
+  background-color: #fa1201;
+  color: #ffffff;
+}
